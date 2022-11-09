@@ -59,7 +59,7 @@ const Home: NextPage = () => {
                 />
                 <PetCounter>pets: {petCount}</PetCounter>
                 <ArtLink
-                    href="https://github.com/neptunsk1y"
+                    href="https://cv.neptunsk1y.me"
                     target="_blank"
                     whileHover={{ color: "#4a4a47" }}
                     transition={{ duration: 0.2, ease: "easeInOut" }}
